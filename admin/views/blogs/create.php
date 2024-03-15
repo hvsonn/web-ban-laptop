@@ -8,7 +8,7 @@
                 <form class="form_create" action="index.php?controller=blog&action=store" method="post" enctype="multipart/form-data">
                     <div class="input-group mt-3 mb-3">
                         <span class="input-group-text">Title</span>
-                        <input type="text" class="form-control" required value="1" name="title" style="width: 1000px; height: 30px;">
+                        <input type="text" class="form-control" required value="11" name="title" style="width: 1000px; height: 30px;">
                     </div>
                     </br>
                     <div class="input-group mt-3 mb-3">
